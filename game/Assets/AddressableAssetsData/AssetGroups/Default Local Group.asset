@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1acd0f94c2977a745a0a6ff4907cc57b
+  m_SerializeEntries:
+  - m_GUID: 05b21b1b915f73c47a6117e3ba2e0f01
+    m_Address: Gate
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 07a3c2922804062449eafc28cd22782f
+    m_Address: Wooden Box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 304df02ef065b5543b31c2b6dcab4a51
+    m_Address: Door
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 30ff19b3ed8eaa2478c704b512f1dce8
+    m_Address: Lizard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 4555d8d09bedbb248b1fe50a520ccfa9
+    m_Address: Generator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 50872c9cd4a620e44b5a080596530710
+    m_Address: Turel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 5240dd740b31932468de0b210f77ef78
+    m_Address: Cutscenes/Test
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Cutscene
+  - m_GUID: 54076ce1de1c74040a46a25ce9ceda88
+    m_Address: SpeechBubble
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 547ad93057e1ef2398e3a982e610c434
+    m_Address: Cutscene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 6228049fd3c21bd41a2d25b25a9e3d5d
+    m_Address: Drone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 643cea734631dbe4eb545148c97c4e11
+    m_Address: First Aid Pack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 67247a358ae9f5a49b79064502682bb8
+    m_Address: Turbine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 6819abcfa99c58a45bbecb9de1239710
+    m_Address: Yellow Box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 6a46e5a682b003a41bd9023ff548cee0
+    m_Address: Green Box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 724c8d0099cd90b4da4b4f2d87193966
+    m_Address: Assets/Levels/Laboratory/Laboratory.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 785ceb7206371174288a4e9e2962249e
+    m_Address: Mutagen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: 974e2da9e1764dd4e99495d4df0577e4
+    m_Address: Pass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: a2fdf20a6c304aa469bd81271fea2a52
+    m_Address: Lootbox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: af2ad5d6b6e0ad8489b28659e303a9dd
+    m_Address: Armor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: bb698f8fde33c3a4db3c3ecdb6541028
+    m_Address: GateActivator
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: db42beac388dfac41b79f8377b69339b
+    m_Address: Barrel Orange
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: dbcd7c4f516764949a2e08b8f1f0512d
+    m_Address: Assets/Levels/Laboratory/Laboratory2.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e48371e8217ffa849955286a23f9fae9
+    m_Address: Hedgehog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: eeb9345038e4a5d438d8e0ee7b6ef2a4
+    m_Address: Portal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  - m_GUID: f50ed43e4f4a80d45b980c1f5579f8f6
+    m_Address: Barrel Green
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Entity
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 86a4097a6f3bc4b4da43bec5ca0420b1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 502a7a6f93694644da35d0a2b882bb65, type: 2}
+    - {fileID: 11400000, guid: 39c80cba26242934f85a3dec528cc91b, type: 2}

@@ -1,0 +1,28 @@
+{
+    "name": "Game",
+    "rootNamespace": "",
+    "references": [
+        "Plugins",
+        "Unity.2D.PixelPerfect",
+        "UniRx",
+        "UniRx.Async",
+        "Unity.Postprocessing.Runtime",
+        "Unity.TextMeshPro",
+        "spine-unity",
+        "Unity.InputSystem",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipeline.Universal.ShaderLibrary"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

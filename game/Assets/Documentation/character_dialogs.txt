@@ -1,0 +1,64 @@
+Level 1.
+
+START: What the fuck happened? How long I was sleeping? Where I am? And where is everyone? What is this fucking huge purple computer? I need to come closer, there may be answers...
+FIRST AID KIT: Medicine, nice. You can't be too healthy... Some healing will do no harm. First aid kit won't hurt!
+ARMOR: Armor? Good! Like a second skin!
+TOXIC PUDDLE: Toxic slurry under feet, gotta be careful..
+WOODEN BOX: Obstacle in my way? Destroy it!
+MUTAGEN: Mutagen? I hope it's LSD... Lets eat it!
+GREEN BOX 1: Jump and punch!
+GREEN BOX 2: Kick this box!
+LOOTBOX: There is definitely something inside... Shit! You can't open this box.
+YELLOW BOX FOR HEDGEHOG: I can move the yellow box where needed.
+YELLOW BOX FOR LIZARD: I can't get through here. I need find another way...
+MIRROR: Yeah, I'm so cute!
+LADDER: Hmm... I can climb up.
+TUREL: Shit! The fucking gun shoots in me!
+ELECTRICITY: High voltage, gotta be careful...  Shit! The fucking wires will fry my ass!
+FENCE FOR HEDGEHOG: Shit! This fence will not sustain me! Someone lighter and slicker would more handy here. I need find another way...
+HEDGEHOG_ABOUT_LIZARD: Damn ladders everywhere... By the way, I wonder where my wingman Lex is now?...
+
+LEVEL_1_START_TERMINAL:
+Greetings, soldier. Glad you’re awake. 
+The experiment’s been terminated successfully and you are ready to fall to the accomplishment of your mission. 
+Your objective is to defend the United Union of the Earth.
+You are the first of its kind product of gene engineering with the possibilities going far beyond the regular human ones. 
+All the necessary chips and microscopic computer are implanted into your body in order to maintain the connection with the control center.
+Your body has certain features: active armor and mutagen which is introduced into your blood and reinforces your capabilities. 
+Watch the indications. Look out. 
+In laboratory you will find medicine chests, armor and mutagen capsules which will improve your vital statistics. 
+Avoid dangerous objects which may do damage. 
+Address to the laboratory staff for more info, missions and objectives. 
+You will find our engineers on the 2nd flour.
+Go ahead soldier, complete the mission!
+
+FIRST_SPEED_MUTAGEN: I'm fucking quick!  You have used SPEED mutagen. Now you're run faster and jump higher. Use your improved abilities to get out and survive.
+
+SECOND_FLOOR_LAB_IS_EMPTY: Strange, nobody on the 2nd floor. And who would explain to me what happened? Maybe this computer would give me more info…
+
+LEVEL_1_TERMIINAL_2:
+Greetings, soldier.Your name is Hudge.
+You are the part of defence system of the Earth.
+Use mutagens for different missions.
+Activate environment and open army boxes, you can find something useful. 
+You need find a map first ....
+Pshhh ........
+= Entry for January 4, 2488 AD =
+Laboratory is under attack! ... ...
+
+LEVEL_1_TERMIINAL_3:
+Pshhhhhh ......
+= Entry for January 5, 2488 AD =
+Laboratory is under attack!
+Undefined enemy!
+They are already inside! Activate UDP!
+Fire in the hall!!! ... ...
+
+SECOND_FLOOR_LAB_AFTER_INTERACT_WITH_PC: Not a soul… It’s like the whole laboratory died out, that starts being stressful. Damn, looks like there was a fucking huge mess while I was asleep.
+
+DEACTIVATE_TURBINE: I need to deactivate this fucking meat grinder!
+
+EXIT: The door to outside. Let's go!
+
+LEVEL_2_BEGIN: It seems I can't go any further, I need to wait for the update.
+

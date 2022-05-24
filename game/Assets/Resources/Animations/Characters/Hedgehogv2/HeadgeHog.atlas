@@ -1,0 +1,251 @@
+
+HeadgeHog.png
+size: 853,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H_armL_hand_1
+  rotate: false
+  xy: 815, 90
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+H_armL_hand_2
+  rotate: false
+  xy: 815, 40
+  size: 35, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+H_armLbot
+  rotate: true
+  xy: 204, 162
+  size: 121, 176
+  orig: 124, 194
+  offset: 0, 0
+  index: -1
+H_armLtop
+  rotate: false
+  xy: 529, 356
+  size: 153, 165
+  orig: 153, 165
+  offset: 0, 0
+  index: -1
+H_armR_hamd_1
+  rotate: false
+  xy: 726, 51
+  size: 87, 87
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+H_armR_hamd_2
+  rotate: false
+  xy: 672, 152
+  size: 48, 63
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+H_armR_hamd_3
+  rotate: false
+  xy: 604, 13
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+H_armR_hamd_4
+  rotate: true
+  xy: 255, 4
+  size: 30, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+H_armR_hamd_5
+  rotate: true
+  xy: 672, 96
+  size: 54, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+H_armRbot
+  rotate: false
+  xy: 650, 217
+  size: 82, 137
+  orig: 82, 137
+  offset: 0, 0
+  index: -1
+H_armRtop
+  rotate: false
+  xy: 684, 365
+  size: 151, 156
+  orig: 151, 160
+  offset: 0, 0
+  index: -1
+H_body
+  rotate: false
+  xy: 204, 285
+  size: 161, 236
+  orig: 196, 236
+  offset: 0, 0
+  index: -1
+H_ear_1
+  rotate: false
+  xy: 539, 9
+  size: 63, 76
+  orig: 64, 85
+  offset: 0, 1
+  index: -1
+H_ear_2
+  rotate: true
+  xy: 192, 2
+  size: 32, 61
+  orig: 35, 68
+  offset: 3, 3
+  index: -1
+H_eyeClip_1
+  rotate: false
+  xy: 604, 2
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+H_eyeClip_2
+  rotate: false
+  xy: 633, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+H_eyeClip_3
+  rotate: true
+  xy: 192, 187
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+H_eyeClip_4
+  rotate: false
+  xy: 367, 285
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+H_eye_1
+  rotate: false
+  xy: 529, 339
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+H_eye_2
+  rotate: true
+  xy: 343, 155
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+H_fix_1
+  rotate: false
+  xy: 476, 92
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+H_hair
+  rotate: false
+  xy: 367, 324
+  size: 160, 197
+  orig: 160, 197
+  offset: 0, 0
+  index: -1
+H_headBack_1
+  rotate: true
+  xy: 367, 298
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+H_headBack_2
+  rotate: false
+  xy: 837, 509
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+H_headBot
+  rotate: true
+  xy: 473, 2
+  size: 88, 64
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+H_headTop
+  rotate: true
+  xy: 192, 36
+  size: 124, 149
+  orig: 124, 149
+  offset: 0, 0
+  index: -1
+H_head_Sh
+  rotate: false
+  xy: 2, 25
+  size: 188, 189
+  orig: 216, 212
+  offset: 12, 8
+  index: -1
+H_legL_bot
+  rotate: false
+  xy: 476, 166
+  size: 80, 156
+  orig: 100, 156
+  offset: 20, 0
+  index: -1
+H_legL_bot_walk
+  rotate: false
+  xy: 558, 198
+  size: 90, 156
+  orig: 100, 156
+  offset: 10, 0
+  index: -1
+H_legL_top
+  rotate: true
+  xy: 734, 251
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+H_legL_top_walk
+  rotate: false
+  xy: 734, 140
+  size: 112, 109
+  orig: 138, 109
+  offset: 0, 0
+  index: -1
+H_legR_bot
+  rotate: false
+  xy: 382, 155
+  size: 92, 167
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+H_legR_top
+  rotate: true
+  xy: 343, 44
+  size: 109, 128
+  orig: 121, 128
+  offset: 12, 0
+  index: -1
+H_legR_top_walk
+  rotate: false
+  xy: 558, 87
+  size: 112, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+needles
+  rotate: false
+  xy: 2, 216
+  size: 200, 305
+  orig: 200, 305
+  offset: 0, 0
+  index: -1

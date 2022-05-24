@@ -1,0 +1,501 @@
+
+Hedgehog.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack_hedhehog2_body
+  rotate: false
+  xy: 873, 420
+  size: 144, 184
+  orig: 144, 184
+  offset: 0, 0
+  index: -1
+backSide_arm_l
+  rotate: false
+  xy: 455, 892
+  size: 96, 127
+  orig: 96, 127
+  offset: 0, 0
+  index: -1
+backSide_arm_r
+  rotate: false
+  xy: 2, 891
+  size: 96, 128
+  orig: 96, 128
+  offset: 0, 0
+  index: -1
+backSide_needle_001
+  rotate: false
+  xy: 923, 844
+  size: 74, 175
+  orig: 74, 175
+  offset: 0, 0
+  index: -1
+backSide_needle_002
+  rotate: false
+  xy: 952, 621
+  size: 52, 221
+  orig: 52, 221
+  offset: 0, 0
+  index: -1
+backSide_needle_006
+  rotate: false
+  xy: 363, 377
+  size: 81, 173
+  orig: 81, 173
+  offset: 0, 0
+  index: -1
+backSide_needle_012
+  rotate: true
+  xy: 2, 3
+  size: 27, 201
+  orig: 27, 201
+  offset: 0, 0
+  index: -1
+chain1
+  rotate: true
+  xy: 858, 933
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+hedhehog2_kneepad
+  rotate: false
+  xy: 2, 860
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+hedhehog2_left_foot
+  rotate: false
+  xy: 363, 255
+  size: 68, 120
+  orig: 70, 122
+  offset: 1, 1
+  index: -1
+hedhehog2_needle2
+  rotate: false
+  xy: 233, 23
+  size: 126, 166
+  orig: 128, 168
+  offset: 1, 1
+  index: -1
+hedhehog2_needle3
+  rotate: true
+  xy: 873, 266
+  size: 152, 138
+  orig: 154, 140
+  offset: 1, 1
+  index: -1
+idle_hedhehog1_paukdron
+  rotate: false
+  xy: 2, 32
+  size: 229, 157
+  orig: 229, 157
+  offset: 0, 0
+  index: -1
+idle_hedhehog2 right_kneepad
+  rotate: true
+  xy: 100, 915
+  size: 104, 69
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_body
+  rotate: false
+  xy: 518, 571
+  size: 432, 448
+  orig: 432, 448
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_head
+  rotate: false
+  xy: 2, 520
+  size: 514, 499
+  orig: 514, 499
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_left_wristband
+  rotate: false
+  xy: 777, 19
+  size: 215, 232
+  orig: 215, 232
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_needle1
+  rotate: false
+  xy: 363, 2
+  size: 412, 249
+  orig: 412, 249
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_needle2
+  rotate: false
+  xy: 2, 191
+  size: 359, 327
+  orig: 359, 327
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_needle4
+  rotate: true
+  xy: 453, 253
+  size: 316, 418
+  orig: 316, 418
+  offset: 0, 0
+  index: -1
+
+Hedgehog2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atack_hedhehog2_left_arm
+  rotate: true
+  xy: 294, 247
+  size: 73, 60
+  orig: 73, 60
+  offset: 0, 0
+  index: -1
+attack_hedhehog2_right_arm
+  rotate: false
+  xy: 851, 304
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+backSide_body
+  rotate: true
+  xy: 440, 334
+  size: 164, 203
+  orig: 164, 221
+  offset: 0, 18
+  index: -1
+backSide_forearm_l
+  rotate: false
+  xy: 575, 45
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+backSide_forearm_r
+  rotate: false
+  xy: 322, 44
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+backSide_hand_r
+  rotate: false
+  xy: 237, 17
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+backSide_head
+  rotate: false
+  xy: 2, 412
+  size: 215, 196
+  orig: 215, 196
+  offset: 0, 0
+  index: -1
+backSide_hip_l
+  rotate: false
+  xy: 960, 852
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+backSide_hip_r
+  rotate: true
+  xy: 2, 33
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+backSide_leg_l
+  rotate: false
+  xy: 508, 697
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+backSide_leg_r
+  rotate: true
+  xy: 713, 19
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+backSide_needle_003
+  rotate: true
+  xy: 767, 188
+  size: 111, 167
+  orig: 111, 167
+  offset: 0, 0
+  index: -1
+backSide_needle_004
+  rotate: false
+  xy: 2, 110
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+backSide_needle_005
+  rotate: false
+  xy: 674, 59
+  size: 131, 65
+  orig: 131, 65
+  offset: 0, 0
+  index: -1
+backSide_needle_007
+  rotate: true
+  xy: 107, 92
+  size: 50, 213
+  orig: 50, 213
+  offset: 0, 0
+  index: -1
+backSide_needle_008
+  rotate: true
+  xy: 109, 169
+  size: 118, 150
+  orig: 118, 150
+  offset: 0, 0
+  index: -1
+backSide_needle_009
+  rotate: false
+  xy: 261, 144
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+backSide_needle_010
+  rotate: false
+  xy: 391, 539
+  size: 113, 53
+  orig: 113, 53
+  offset: 0, 0
+  index: -1
+backSide_needle_011
+  rotate: true
+  xy: 124, 30
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+backSide_paukdron_l
+  rotate: true
+  xy: 945, 25
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+hedhehog2_body
+  rotate: 270
+  xy: 109, 289
+  size: 166, 186
+  orig: 166, 186
+  offset: 0, 0
+  index: -1
+hedhehog2_head
+  rotate: true
+  xy: 682, 348
+  size: 186, 214
+  orig: 186, 214
+  offset: 0, 0
+  index: -1
+hedhehog2_left_arm
+  rotate: false
+  xy: 483, 169
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+hedhehog2_left_boot
+  rotate: 180
+  xy: 953, 532
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+hedhehog2_left_hand
+  rotate: true
+  xy: 807, 53
+  size: 72, 136
+  orig: 72, 136
+  offset: 0, 0
+  index: -1
+hedhehog2_needle1
+  rotate: true
+  xy: 757, 126
+  size: 60, 184
+  orig: 62, 186
+  offset: 1, 1
+  index: -1
+hedhehog2_needle4
+  rotate: true
+  xy: 2, 218
+  size: 192, 105
+  orig: 194, 107
+  offset: 1, 1
+  index: -1
+hedhehog2_needle5
+  rotate: true
+  xy: 943, 123
+  size: 165, 63
+  orig: 167, 65
+  offset: 1, 1
+  index: -1
+hedhehog2_needle6
+  rotate: false
+  xy: 608, 143
+  size: 147, 80
+  orig: 149, 82
+  offset: 1, 1
+  index: -1
+hedhehog2_right_boot
+  rotate: 270
+  xy: 543, 4
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+hedhehog2_right_foot
+  rotate: true
+  xy: 423, 41
+  size: 67, 119
+  orig: 69, 121
+  offset: 1, 1
+  index: -1
+idle_chain1
+  rotate: 180
+  xy: 411, 110
+  size: 195, 150
+  orig: 195, 150
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_left_arm
+  rotate: true
+  xy: 593, 226
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_left_boot
+  rotate: false
+  xy: 894, 290
+  size: 128, 236
+  orig: 128, 236
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_left_foot
+  rotate: 270
+  xy: 213, 392
+  size: 202, 230
+  orig: 202, 230
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_left_hand
+  rotate: false
+  xy: 508, 679
+  size: 273, 341
+  orig: 273, 341
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_needle3
+  rotate: false
+  xy: 2, 610
+  size: 280, 410
+  orig: 280, 410
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_needle5
+  rotate: false
+  xy: 284, 594
+  size: 222, 426
+  orig: 222, 426
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_right_boot
+  rotate: 270
+  xy: 355, 245
+  size: 144, 217
+  orig: 145, 217
+  offset: 1, 0
+  index: -1
+idle_hedhehog2_right_foot
+  rotate: true
+  xy: 709, 841
+  size: 179, 258
+  orig: 179, 258
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_right_hand
+  rotate: false
+  xy: 739, 525
+  size: 282, 319
+  orig: 282, 319
+  offset: 0, 0
+  index: -1
+idle_hedhehog2_right_wristband
+  rotate: true
+  xy: 508, 480
+  size: 197, 211
+  orig: 197, 211
+  offset: 0, 0
+  index: -1
+
+Hedgehog3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backSide_hand_l
+  rotate: true
+  xy: 366, 37
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+backSide_needle_013
+  rotate: false
+  xy: 237, 2
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+backSide_paukdron_r
+  rotate: true
+  xy: 101, 13
+  size: 96, 66
+  orig: 96, 66
+  offset: 0, 0
+  index: -1
+hedhehog1_paukdron
+  rotate: true
+  xy: 169, 13
+  size: 96, 66
+  orig: 98, 68
+  offset: 1, 1
+  index: -1
+hedhehog2_left_wristband
+  rotate: false
+  xy: 2, 8
+  size: 99, 102
+  orig: 105, 103
+  offset: 4, 1
+  index: -1
+hedhehog2_right_arm
+  rotate: false
+  xy: 435, 39
+  size: 65, 70
+  orig: 66, 70
+  offset: 1, 0
+  index: -1
+idle_hedhehog2 left_kneepad
+  rotate: true
+  xy: 296, 5
+  size: 104, 69
+  orig: 104, 72
+  offset: 0, 0
+  index: -1

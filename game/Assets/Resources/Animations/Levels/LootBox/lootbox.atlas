@@ -1,0 +1,27 @@
+
+lootbox.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lootbox_1
+  rotate: false
+  xy: 1268, 45
+  size: 578, 173
+  orig: 600, 173
+  offset: 0, 0
+  index: -1
+lootbox_2
+  rotate: false
+  xy: 2, 2
+  size: 637, 216
+  orig: 640, 223
+  offset: 2, 0
+  index: -1
+lootbox_3
+  rotate: false
+  xy: 641, 63
+  size: 625, 155
+  orig: 625, 155
+  offset: 0, 0
+  index: -1

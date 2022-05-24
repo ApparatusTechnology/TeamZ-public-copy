@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 660ea100ae40f9248ae6835b0a0312a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4687989648753849395
+    second: attack_hedhehog2_body
+  - first:
+      213: -7791451933809101394
+    second: backSide_arm_l
+  - first:
+      213: -528932282284019333
+    second: backSide_arm_r
+  - first:
+      213: -1587539724543217440
+    second: backSide_needle_001
+  - first:
+      213: 6131479292951454004
+    second: backSide_needle_002
+  - first:
+      213: 4605914784792794427
+    second: backSide_needle_006
+  - first:
+      213: -6017992786111754360
+    second: backSide_needle_012
+  - first:
+      213: -3502430945633955794
+    second: chain1
+  - first:
+      213: 6621169657971397301
+    second: hedhehog2_kneepad
+  - first:
+      213: 6300769121162306651
+    second: hedhehog2_left_foot
+  - first:
+      213: -8584031392688667745
+    second: hedhehog2_needle2
+  - first:
+      213: -7427278839598711343
+    second: hedhehog2_needle3
+  - first:
+      213: 6747038688442645268
+    second: idle_hedhehog1_paukdron
+  - first:
+      213: 3737265201879465630
+    second: idle_hedhehog2 right_kneepad
+  - first:
+      213: -7596596415752915929
+    second: idle_hedhehog2_body
+  - first:
+      213: -2840441423837615438
+    second: idle_hedhehog2_head
+  - first:
+      213: 2866518237916337937
+    second: idle_hedhehog2_left_wristband
+  - first:
+      213: -1211255390517712903
+    second: idle_hedhehog2_needle1
+  - first:
+      213: -9188617073414343603
+    second: idle_hedhehog2_needle2
+  - first:
+      213: -5836213222384583732
+    second: idle_hedhehog2_needle4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack_hedhehog2_body
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 420
+        width: 144
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb8153a04ae0feb0800000000000000
+      internalID: -4687989648753849395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_arm_l
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 5
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea537c04fb33fd390800000000000000
+      internalID: -7791451933809101394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_arm_r
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71793444ead8a8f0800000000000000
+      internalID: -528932282284019333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_needle_001
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5
+        width: 74
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b7cb180de7f9e0800000000000000
+      internalID: -1587539724543217440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_needle_002
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 182
+        width: 52
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431e8045ee3671550800000000000000
+      internalID: 6131479292951454004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_needle_006
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 474
+        width: 81
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b355b45f71f7bef30800000000000000
+      internalID: 4605914784792794427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backSide_needle_012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 994
+        width: 201
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f02fa127bcb7ca0800000000000000
+      internalID: -6017992786111754360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 12
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2017239c9dd46fc0800000000000000
+      internalID: -3502430945633955794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hedhehog2_kneepad
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2daf439be13eb50800000000000000
+      internalID: 6621169657971397301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hedhehog2_left_foot
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 649
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5421aef124d07750800000000000000
+      internalID: 6300769121162306651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hedhehog2_needle2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 835
+        width: 126
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938df1bde46fd880800000000000000
+      internalID: -8584031392688667745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hedhehog2_needle3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 606
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd71fd2f310de890800000000000000
+      internalID: -7427278839598711343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog1_paukdron
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 835
+        width: 229
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf07690fb42ad50800000000000000
+      internalID: 6747038688442645268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2 right_kneepad
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 69
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e347576ee6dd330800000000000000
+      internalID: 3737265201879465630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_body
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 5
+        width: 432
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724ba01fec7739690800000000000000
+      internalID: -7596596415752915929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 514
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baaad60399b498d0800000000000000
+      internalID: -2840441423837615438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_left_wristband
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 773
+        width: 215
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1179e21662be7c720800000000000000
+      internalID: 2866518237916337937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_needle1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 773
+        width: 412
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72aebc3a1c03fe0800000000000000
+      internalID: -1211255390517712903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_needle2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 506
+        width: 359
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d447c0284797b7080800000000000000
+      internalID: -9188617073414343603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_hedhehog2_needle4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 455
+        width: 418
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb345eeefa910fa0800000000000000
+      internalID: -5836213222384583732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4d946f4d23eb2142b95a92ca8b5ed92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

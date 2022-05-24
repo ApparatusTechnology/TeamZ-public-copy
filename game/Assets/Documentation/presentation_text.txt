@@ -1,0 +1,109 @@
+Team Z Presentation
+
+Plot overview
+2228 A. D. The Earth is dying after numerous nuclear wars. Humanity is fighting for its survival. Suitable moment for higher beings to conquer the planet and turn it to just another nuclear pile supplying the parent nucleus. They only need to purify the planet from bio waste...​
+But the ancient security protocol UDP was activated at the precisely right moment. In the classified laboratory Apparatus Tech those who were the last hope woke up from years long cryogenic sleep. The last heroes team. Team Z.​
+But would they want to protect the humanity?...​
+
+Concept overview
+2D platformer​
+Cool storyline​
+Control any of two heroes​
+Post-apocalyptic world​
+Cyberpunk setting ​
+Beat’em’up and action​
+Adventure​
+Alien invasion​
+Open world​
+Juicy effects​
+Authentic mechanics​
+Free to play​
+PC and console game​
+Gamepad support​
+No internet connection needed​
+Core values 
+[Never out of style] Oldskool Nintendo-inspired beat’em’up platformer with nostalgic and trendy cyberpunk neonlight noir ambiance;
+[Spectacular] Authentic game mechanics and characters’ features along with a fascinating storyline;
+[Alive] Open free-to-play world with diverse locations constantly changing due to the life-simulation mechanisms;
+[Flexible] No distinct friends or enemies — different endings based on player’s relationships with NPCs.
+
+Global objective
+The Earth is weak, exhausted and divided after the nuclear war. Instead of banding together to resist the Alien invaders Humanity still tangles among itself. As a powerful mutant your main goal is to save Planet Earth from invasion and Humanity — from extinction (that one is not mandatory but preferable), help “good” people fight “bad” ones. On your way you will have to accomplish various levels with diverse tasks, find mutagens, collect stuff and so on. in a word, whatever it takes to complete the Mission!
+Characters
+Main:
+Lizard — the product of a gene mutation, super soldier. Fast, strong, nifty, noiseless. Thick skin is not sensitive to damage and to intense effect of diverse ray kinds. Poorly sensitive to radiation. Sees in dark, sees in infrared spectrum. Can climb the ladders, grids, relief walls. Jumps high and runs fast (temporary speed-up on short distances). Can get into the ventilation and canalization hatches, move in ventilation tubes. Able to go stealth (to blend in with surrounding). Can drop his tail (which will do some damage and make some punches unavailable) which Hedgehog can eat to restore his HP.  
+Hedgehog — the product of a gene mutation, super soldier. Abnormally strong, hardy, enduring and heavy. Able to stand huge loads and overloads. Poorly sensitive to radiation. Sees in dark. Thick skin and quill armor makes him almost invincible to light weapons. Because of this he is considerably slower than Lizard. Jumps low. Punches mainly with his hands, walks slowly however can speed-up for short periods of time. Can pick up and throw heavy objects, break boxes and other stuff of the level, break out doors and grids, breach walls in certain places. Can climb ladders but cannot climb grids and walls. Can crudely shake himself and shoot quills in all directions which will kill everyone around but do some damage to Hedgehog himself.
+NPC:
+
+“Good” humans: scientists, pacifists, survived in the city after the nuclear war. Before the war observing the militarization launched by “bad” Alliance and private military enterprises dedicated their lives to fight for peace. Even after the war which they were not ready for, they’re still struggling to end wars, resisting the “bads” and trying to start demilitarization; 
+“Bad” humans: Alliance of militarized countries and private military organization who wanted to conquer the planet by means of a nuclear war. To fight the rest of objectors they invented a UDP protocol;
+Aliens: cosmic invaders, overminded universal colonizers who conquer or destroy  planet after planet;
+Other mutants: other super-soldiers of UDP protocol who help of vice versa detain the main characters. May be Rat (“good”) and Boar (“bad”); 
+Locations
+Level 1: Laboratory 
+Stage 1.0: Initializing system 
+Stage 1.1: Through the catacombs
+Stage 1.2: Command center
+Stage 1.3: To the surface 
+
+Level 2: Radioactive desert
+
+Level designs
+Slide #1
+2D Sandbox 
+Noir, abandoned, scary… Apart from the ambience, the levels can show off multiple physical floors with diverse options of transition — ladders, grids, relief walls, boxes and all means the characters are capable of. 
+
+------- add level description from Mechanics (radiation, ambient, different creatures) ---- 
+Slide #2
+We said 2D?
+Well yes, but only if not taking into account the in-depth rooms of the level where the player is not limited to standard up-down-left-right movements, but can also go explore pseudo-3D areas. 
+
+Slide #3
+Each level has its own environment and creatures which can be absorbed and which point to the level exit (rats in labs, mutated birds and lizards, cockroaches in radioactives areas).
+
+There are levels with high and low radiation level. On the levels with a high radiation level (Earth ground outside of the lab) the characters slowly run out of HP which pushes them to look for aid kits and mutagen capsules. 
+
+There are levels with different directionalities — levels there players need to move from left to right, from right to left, up and down.
+
+There are levels with several exits. The difficulty of the level and killing enemies will depend on the side player exits. But playing the two together it will only be possible to exit through a single one.
+
+All levels have capsules with mutagen which temporary enhance and transform the characters.
+
+
+
+Mechanics 
+
+Hedgehog
+As Hedgehog is heavy, he is able to break ladders and breach grids on the floor so it will necessary to bring up some boxes to get to the 2nd floor, for instance. 
+Hedgehog can throw on Lizard. Hedgehog can throw on and break heavy objects which Lizard can’t.
+Hedgehog can breach walls in certain areas where available. 
+Hedgehog can spin and shoot quills in all directions doing damage to everyone around and getting weaker in the same time. 
+
+Lizard
+Lizard can climb grids and walls.
+Lizard can go stealth blending in with his surrounding.
+Lizard can drop his tail for Hedgehog to pick it up, absorb and heal himself (available only once for a long period of time, during that Lizard is not able to punch with his tail).
+
+------- add description of level mechanics from Mechanics  ----
+
+Gameplay / Controls
+Screenshots from game (left-right / jump / climb-up-down / kick-punch / strike-combo / interaction) + pictogram of gamepad and keyboard with the corresponding buttons highlighted.
+
+Power-ups
+Armor, first aid kit, mutagen. 
+
+Progress map
+…………………
+Inspiration 
+Oldskool video-games, science-fiction movies, books, games, comics.
+Bosses [Coming soon]
+Bosses among bad humans, good humans, aliens.
+
+Game juice (physics, feedback on users’ actions)
+Many visual effects, realistic light, explosions, broken boxes, camera shakes, particles, smashes, punches, juicy combo-strikes, zoom changes, SFX, original soundtracks, characters’ animation, destruction, animation of surrounding.
+Swot analysis (pros/cons)
+Amazing features described above. Cons — not all features implemented.
+Audience
+Teenagers, primarily boys (~85%), mainly PC users, millennials which familiar with vintage consoles.
+Like beat’em’up and action games with fascinating plot, adventure.
+

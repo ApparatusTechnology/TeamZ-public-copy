@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Midground
+  - Foreground
+  - Character
+  - UI
+  - Stairway
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - LevelObject
+  - Enemy
+  - ClimbingWall
+  - Outline
+  - Character1
+  - Character2
+  - Placeholder
+  - Ladder
+  - Platform
+  - Bloomed
+  - Background
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Postprocessing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2376430761
+    locked: 0
+  - name: MidgroundBack
+    uniqueID: 4212774445
+    locked: 0
+  - name: Midground
+    uniqueID: 1370037939
+    locked: 0
+  - name: MidgroundForward
+    uniqueID: 255131083
+    locked: 0
+  - name: Foreground
+    uniqueID: 533657567
+    locked: 0
+  - name: Boosters
+    uniqueID: 2354881719
+    locked: 0
+  - name: YellowBoxes
+    uniqueID: 412743539
+    locked: 0
+  - name: GreenBoxes
+    uniqueID: 1921207077
+    locked: 0
+  - name: Character
+    uniqueID: 1308428055
+    locked: 0
+  - name: CharacterOverlay
+    uniqueID: 2392985057
+    locked: 0
+  - name: UI
+    uniqueID: 8092057
+    locked: 0
+  - name: Screen Space UI
+    uniqueID: 116161511
+    locked: 0
